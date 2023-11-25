@@ -1,5 +1,5 @@
 # Kryvonosenko_Denys3
-lab3
+lab3 PD-33
 
 # Simple E-Commerce System
 
